@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/pazguille/npm-css-sass#readme",
   "dependencies": {
-    "node-sass": "3.7.0",
+    "node-sass": "4.0.0",
     "path": "0.12.7",
     "resolve": "1.1.7"
   },
   "devDependencies": {
-    "normalize.css": "^4.1.1"
+    "normalize.css": "^5.0.0"
   }
 }
