@@ -30,6 +30,6 @@
     "resolve": "1.1.7"
   },
   "devDependencies": {
-    "normalize.css": "^5.0.0"
+    "normalize.css": "^6.0.0"
   }
 }
