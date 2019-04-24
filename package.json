@@ -27,7 +27,7 @@
   "dependencies": {
     "node-sass": "4.4.0",
     "path": "0.12.7",
-    "resolve": "1.1.7"
+    "resolve": "1.10.1"
   },
   "devDependencies": {
     "normalize.css": "^5.0.0"
